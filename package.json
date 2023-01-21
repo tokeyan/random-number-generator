@@ -1,0 +1,20 @@
+{
+  "name": "mady_random_num_gen",
+  "version": "1.0.0",
+  "description": "generation of random number between 1 to 1000",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokeyan/random-number-generator.git"
+  },
+  "author": "madhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tokeyan/random-number-generator/issues"
+  },
+  "homepage": "https://github.com/tokeyan/random-number-generator#readme"
+}
